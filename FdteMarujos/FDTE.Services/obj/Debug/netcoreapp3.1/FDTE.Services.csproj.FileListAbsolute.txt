@@ -1,0 +1,13 @@
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\bin\Debug\netcoreapp3.1\FDTE.Services.deps.json
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\bin\Debug\netcoreapp3.1\FDTE.Services.dll
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\bin\Debug\netcoreapp3.1\FDTE.Services.pdb
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\obj\Debug\netcoreapp3.1\FDTE.Services.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\obj\Debug\netcoreapp3.1\FDTE.Services.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\obj\Debug\netcoreapp3.1\FDTE.Services.AssemblyInfo.cs
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\obj\Debug\netcoreapp3.1\FDTE.Services.dll
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\obj\Debug\netcoreapp3.1\FDTE.Services.pdb
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\bin\Debug\netcoreapp3.1\FDTE.Entities.dll
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\bin\Debug\netcoreapp3.1\FDTE.InfraScructure.dll
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\bin\Debug\netcoreapp3.1\FDTE.Entities.pdb
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\bin\Debug\netcoreapp3.1\FDTE.InfraScructure.pdb
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.Services\obj\Debug\netcoreapp3.1\FDTE.Services.csproj.CopyComplete

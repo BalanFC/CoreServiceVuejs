@@ -1,0 +1,13 @@
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\bin\Debug\netcoreapp3.1\FDTE.InfraScructure.deps.json
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\bin\Debug\netcoreapp3.1\FDTE.InfraScructure.dll
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\bin\Debug\netcoreapp3.1\FDTE.InfraScructure.pdb
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\obj\Debug\netcoreapp3.1\FDTE.InfraScructure.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\obj\Debug\netcoreapp3.1\FDTE.InfraScructure.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\obj\Debug\netcoreapp3.1\FDTE.InfraScructure.AssemblyInfo.cs
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\obj\Debug\netcoreapp3.1\FDTE.InfraScructure.dll
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\obj\Debug\netcoreapp3.1\FDTE.InfraScructure.pdb
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\bin\Debug\netcoreapp3.1\FDTE.InfraScructure.runtimeconfig.json
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\bin\Debug\netcoreapp3.1\FDTE.InfraScructure.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\bin\Debug\netcoreapp3.1\FDTE.Entities.dll
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\bin\Debug\netcoreapp3.1\FDTE.Entities.pdb
+C:\Users\fabio\source\repos\FdteMarujos\FDTE.InfraScructure\obj\Debug\netcoreapp3.1\FDTE.InfraScructure.csproj.CopyComplete
